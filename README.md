@@ -1,6 +1,8 @@
 # AI-Employee-Attrition-Prediction
 
-AI-Based Employee Attrition Prediction Using Machine Learning Algorithms and Explainable AI.## 1. Project Overview
+AI-Based Employee Attrition Prediction Using Machine Learning Algorithms and Explainable AI.
+
+## 1. Project Overview
 
 Employee attrition refers to employees leaving an organization. This project uses Machine Learning algorithms to predict whether an employee is likely to leave the company.
 
